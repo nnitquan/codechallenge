@@ -10,12 +10,13 @@
 ==输出==
 0x01 - 衡量指标：运行时间、CPU使用、内存使用
 0x02 - 提交测试结果：https://github.com/nnitquan/codechallenge/issues/new
-    # issue标题：代码挑战0x01#昵称
-    # 内容格式
+    # issue标题: 代码挑战0x01#昵称
+    # 内容格式:
 微信昵称 : 
 CPU : 
 MEM : 
 OS : 
+代码地址 : 
 程序执行时间 :
 所有文件总数 : 
 空文件夹个数 : 
